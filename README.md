@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-I am Arlo, a Cyber Security Student from Western Europe. I love Open source software and Low Level programming.
+I am Arlo, a Cyber Security Engineer from Western Europe. I spend my time learning about Low Level Programming, Digital Forensics, Malware and Mobile Security.
 
 ### I am currently...
 
-- 🔭 working on my personal blog as well as a GUI Library in [zig](https://github.com/ziglang/zig) to use for mobile and desktop applications or games.
+- 🔭 working on my personal blog/ Website.
 - 🔬 researching Android Operating Systems and how Threat Actors build exploits for the Android platform.
 
 ### Where to find me...
 
 - [@arloargent](https://twitter.com/arl0arg3nt) on Twitter/X
-- personal blog in progress
